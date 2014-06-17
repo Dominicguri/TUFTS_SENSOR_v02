@@ -3,7 +3,7 @@
 % Overall Test Simulation 
 
 
-close all; clear all; clc
+% close all; clear all; clc
 tstart = 0;
 tstop = 100;
 tstep=0.01;
